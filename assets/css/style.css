@@ -1,0 +1,23 @@
+#start {
+position: absolute;
+padding: 120px;
+background-color: yellow;
+margin: 170px 550px;
+}
+
+#startButton {
+ position: relative;
+
+top: 50%
+
+}
+
+button {
+	width: 100px;
+	height: 80px;
+}
+
+#test {
+	border: #000 1px solid;
+	padding: 10px 40px 40px 40px;
+}
